@@ -3,7 +3,7 @@ ANN/DMM Quadruped Tests:
 
 This experiment evolves ANN/DMM controllers for a quadruped robotic platform, or ANN only controllers by running the file located in ./ann\_only.  Experiments can be run from the launch.sh file with the call of the form:
 
-./launch\_runs <start_run_num> <end_run_num> &
+./launch\_runs \<start\_run\_num\> \<end\_run\_num\> &
 
 I recommend using a screen environment if deploying remotely so that you can view the status of runs when logging back in to your system.  The code is threaded and will use up to n-2 cores on the system with n being the number of cores available.  
 
