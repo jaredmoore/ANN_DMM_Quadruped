@@ -1,0 +1,3 @@
+*.pyc
+./Controllers/__init__.py
+Icon*
